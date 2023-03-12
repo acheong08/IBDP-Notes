@@ -1,4 +1,20 @@
-D.2 Digestion
+# D.2 Digestion
+
+- [D.2 Digestion](#d2-digestion)
+- [Neuronal and hormonal control of digestion](#neuronal-and-hormonal-control-of-digestion)
+  - [**Exocrine glands**](#exocrine-glands)
+- [Absorption in the small intestine](#absorption-in-the-small-intestine)
+  - [The villus](#the-villus)
+      - [Exam tip](#exam-tip)
+  - [Absorption of digested foods](#absorption-of-digested-foods)
+      - [Important](#important)
+- [Absorption in the large intestine](#absorption-in-the-large-intestine)
+      - [Definition](#definition)
+      - [Definition](#definition-1)
+  - [**Cholera**](#cholera)
+      - [Examiner Tip](#examiner-tip)
+- [Checklist](#checklist)
+      - [What you should know](#what-you-should-know)
 
 # Neuronal and hormonal control of digestion
 

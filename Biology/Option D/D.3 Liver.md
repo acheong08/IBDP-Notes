@@ -62,8 +62,8 @@ Capillaries and sinusoids are compared and contrasted in **Table 1**.
 
 **Sinusoids**
 
-| **Table 1.** Differences between capillaries and sinusoids. |
-| --- |
+**Table 1.** Differences between capillaries and sinusoids. 
+
 | **Feature** | **Capillaries** | **Sinusoids** |
 | Very small pores | Intracellular clefts | Fenestrated (with pores of approximately 175 nm diameter) |
 | Continuous basement membrane | Yes | No |

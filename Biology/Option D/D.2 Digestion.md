@@ -42,50 +42,6 @@ D.2 Digestion
 
 Once digested, the food products are absorbed by the digestive system into the blood or lymphatic system and carried to different organs, especially the liver, where they are metabolised into other molecules. **Table 1** summarises the digestive process.
 
-**Table 1**. Digestion and absorption of foods.
-
-**Food**
-
-**Digested to**
-
-**Absorbed by**
-
-**Destination**
-
-Polysaccharides
-
-Monosaccharides
-
-Small intestine
-
-Villus through hepatic portal vein to liver.
-
-Proteins
-
-Amino acids
-
-Stomach
-
-Cells of stomach lining.
-
-Small intestine
-
-Villus through hepatic portal vein to liver.
-
-Lipids
-
-Short chain fatty acids
-
-Small intestine
-
-Villus through hepatic portal vein to liver.
-
-Longer chain fatty acids
-
-Small intestine
-
-Lacteal to lymphatic system.
-
 ## The villus
 
 Most of the absorption occurs in the small intestine. The wall of the small intestine is lined with **villi** that increase the surface area for the absorption of substances. Each villus has a central lacteal whose function is mainly the absorption of fats, and capillaries that carry the rest of the absorbed molecules to other organs. Most capillaries join to form the **hepatic portal vein** that carries blood to the liver. The structure of cells in the epithelium of the villus is adapted to the absorption of food (**Figure 1**).
